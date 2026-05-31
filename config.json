@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdave",
+        "uuid": 32852576,
+        "checksum": "lak4ua"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
